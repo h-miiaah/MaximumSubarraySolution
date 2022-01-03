@@ -13,3 +13,11 @@
     }
     return maximumSum;
 };
+
+
+/*
+
+- Set a variable currentSum to -Infinity
+- Set a variable maximumSum to -Infinity
+
+*/
