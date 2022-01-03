@@ -22,5 +22,9 @@
 - Loop through each variable in the array
 - We check if the currentSum is below 0
 - If the currentSum is below zero we assign it to be 0
+- Add the value of the current index to currentSum
+- We check if the currentSum is greater than the maximumSum
+- If the the currentSum is greater than the maximumSum we will assign the maximumSum to the currentSum
+
 
 */
