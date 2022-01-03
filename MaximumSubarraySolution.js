@@ -4,4 +4,5 @@
  */
  var maxSubArray = function(nums) {
     let currentSum = -Infinity;
+    let maximumSum = -Infinity;
 };
