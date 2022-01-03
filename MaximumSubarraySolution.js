@@ -25,6 +25,6 @@
 - Add the value of the current index to currentSum
 - We check if the currentSum is greater than the maximumSum
 - If the the currentSum is greater than the maximumSum we will assign the maximumSum to the currentSum
-
+- Finally we will return the maximumSum
 
 */
