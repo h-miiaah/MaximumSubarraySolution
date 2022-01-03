@@ -11,4 +11,5 @@
         currentSum += nums[i];
         maximumSum = Math.max(maximumSum, currentSum);
     }
+    return maximumSum;
 };
